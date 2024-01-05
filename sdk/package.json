@@ -1,0 +1,16 @@
+{
+  "name": "npl_sdk_recruit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "recruitment:trainer": "node ./lib/trainer_recruitment.js"
+  },
+  "author": "Daniel Valdez",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.23",
+    "fs": "^0.0.1-security"
+  }
+}

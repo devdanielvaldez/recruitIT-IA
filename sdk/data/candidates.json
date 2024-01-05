@@ -1,0 +1,32 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Elena Ramirez",
+      "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"],
+      "experienceYears": 4,
+      "education": "Bachelor's Degree in Computer Science",
+      "languages": ["English", "Spanish"],
+      "certifications": ["AWS Certified Developer"],
+      "projects": ["Developed a React e-commerce website"],
+      "previousCompanies": ["TechCo Inc.", "WebSolutions Ltd."]
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "skills": ["Python", "Django", "PostgreSQL", "Java"],
+      "experienceYears": 3,
+      "education": "Master's Degree in Software Engineering",
+      "languages": ["English", "Mandarin"],
+      "certifications": ["Certified Scrum Master"],
+      "projects": ["Built a RESTful API using Django"],
+      "previousCompanies": ["Software Innovations LLC", "CodeCrafters"]
+    }
+  ],
+  "labels": [
+    "suitable",
+    "not suitable",
+    "unrelated to the field",
+    "does not have required experience"
+  ]
+}
